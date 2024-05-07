@@ -6,10 +6,10 @@
 - 😄 Pronomes: Ele/Dele -- He/Him
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=kiamisa&show_icons=true&theme=onedark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kiamisa&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=onedark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=onedark" />
 </a>
 
 ## ##
