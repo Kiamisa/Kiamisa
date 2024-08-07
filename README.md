@@ -1,7 +1,7 @@
 ## Ola, Sou Silas Henrique mas pode me chamar de Kiamisa ou Kiam
 
-- 🔭 Atualmente trabalho com eletrônica analógica, eletrônica digital e microprocessadores e microcontroladores
-- 🌱 Estou aprendendo Java, C, C++, Cobol e Python
+- 🔭 Atualmente estudando Eletrônica, Redes, Microprocessadores
+- 🌱 Aprendendo IA, Analise de Dados, BackEnd
 - 📫 Contato por email: silas.comp04@gmail.com
 - 😄 Pronomes: Ele/Dele -- He/Him
   
