@@ -1,18 +1,12 @@
-## Ola, Sou Silas Henrique mas pode me chamar de Kiamisa ou Kiam
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header"/>
 
-- 🔭 Gosto de música, eletrônica e computação
-- 🌱 Aprendendo IA, Análise de Dados, Banco de Dados, BackEnd
-- 🎓 Cursando Engenharia de Computação - 7º Período
-- 😄 Pronomes: Ele/Dele -- He/Him
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb2e0&size=35&center=true&vCenter=true&width=1000&lines=Oi,+sou+Silas+Henrique!;Sou+estudante+de+Engenharia+de+Computação!;Boas+Vindas+ao+meu+GitHub!+:%29)
 
-##
-   
 <div align="center">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kiamisa&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Kiamisa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiamisa&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiamisa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kiamisa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiamisa&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
 ## Experiências
 
@@ -31,20 +25,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:silas.comp04@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas_hmc/)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
 </div>
 
