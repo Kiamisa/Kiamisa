@@ -24,10 +24,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:silas.comp04@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas_hmc/)
 
-## Atividade
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiamisa&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
-
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
 </div>
 
