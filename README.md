@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="download.png">
+  
 ### 🖥️ Computer Engineering Student  
 🔭 Currently working on **Data Analysis**
 
