@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src="download.png">
 - 🖥️ Computer Engineering Student
 - 🔭 I’m currently working on **Data Analysis**
 
