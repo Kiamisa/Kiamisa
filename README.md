@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Silas Henrique (or Kiamisa)</h1>
-<h3 align="center">Computer Engineering Student</h3>
-
+<img src="header.png">
+- 🖥️ Computer Engineering Student
 - 🔭 I’m currently working on **Data Analysis**
 
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kiamisa&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Kiamisa github stats" /> 
