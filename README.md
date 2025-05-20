@@ -9,7 +9,7 @@
 
 <p align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiamisa&theme=github_dark" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiamisa&theme=github_dark" />
+  <img width="24%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiamisa&theme=github_dark" />
 </p>
 
 ---
