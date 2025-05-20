@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Data Analysis**
 
    <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiamisa&theme=github_dark" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiamisa&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiamisa&theme=github_dark&exclude={exclude}" />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
