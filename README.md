@@ -9,6 +9,8 @@
   <div align="right">
     <p align="left">
       <samp>
+        &nbsp; github@Kiamisa<br>
+        &nbsp; --------------<br>
         &nbsp; - <span style="color:#FFC000;">Name:</span> Silas Henrique<br>
         &nbsp; - <span style="color:#FFC000;">Nickame:</span> Kiamisa<br>
         &nbsp; - <span style="color:#FFC000;">Languages:</span> pt_br, en_us<br>
