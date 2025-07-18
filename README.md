@@ -25,10 +25,8 @@
         &nbsp; - <span style="color:#FFC000;">My Programming Experiences:</span> Git, Github, AzureDevops,<br>
         &nbsp; Proteus, Java, Python, C, Rust, C++, Bash, Powershell,<br>
         &nbsp; Blender, MATLAB, HTML, CSS, JS, MarkDown, SQL, MySQL,<br>
-        &nbsp; PostGreSQL, PowerBI, Office, Jenkins, Power Apps, Apache
-        &nbsp; <div align="center">
-          <img src="./assets/images/Pallete.png" width="35%" style="margin-top: 10px;">
-        </div>
+        &nbsp; PostGreSQL, PowerBI, Office, Jenkins, Power Apps, Apache<br>
+        &nbsp;  <img src="./assets/images/Pallete.png" width="35%" style="margin-top: 10px;">
       </samp>
     </p>
   </div>
