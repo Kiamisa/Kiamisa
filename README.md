@@ -33,7 +33,7 @@
           &nbsp; Blender, MATLAB, HTML, CSS, JS, MarkDown, SQL, MySQL,<br>
           &nbsp;  PostGreSQL, PowerBI, Office, Jenkins, Power Apps Apache<br>
           <br>
-          &nbsp; - banner is from Hollow Knight's Silent Journey Through Shadowed Streets by <a>Moisés Dimas</a><br>
+          &nbsp; - banner: Hollow Knight's Silent Journey Through Shadowed Streets by Moisés Dimas<br>
       </p>
       <!--  -->
     </div>
